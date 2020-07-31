@@ -159,7 +159,7 @@ header .downlad-btn:hover{ -webkit-transform: translateY(-4px); transform: trans
 5. PORFOLIO SECTION
 --------------------------------- */
 
-.portfolio-section{ padding-bottom: 0; }
+.portfolio-section{ padding-bottom: 0; padding-top: 2; }
 
 .portfolio-section .portfolioFilter{ margin-top: 60px; color: #666; }
 
@@ -251,12 +251,11 @@ header .downlad-btn:hover{ -webkit-transform: translateY(-4px); transform: trans
 
 .radial-progress .progress-title{ position: absolute; top: 50%; left: 50%; width: 100%;
 	letter-spacing: 0; text-align: center; transform: translate(-50%, 15px); color: #777; }
-
-	
 	
 /* ---------------------------------
 10. FOOTER
 --------------------------------- */
 
-.copyright{ text-align: center; padding: 30px 0; background: #28023D; }
+/* .copyright{ text-align: center; padding: 30px 0; background: #28023D; } */
 
+.footer-section{text-align: center; padding: 30px 0; background: #28023D; color: #fff; }
